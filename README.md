@@ -11,13 +11,13 @@ BlinkIt, India's leading last-minute delivery app, needed comprehensive business
 Develop a fully automated, interactive Power BI dashboard that integrates data collection, cleaning, analysis, and visualization to enable data-driven decision making across all business functions.
 
 ## Tools & Technologies
-- **Microsoft Power BI**: Data modeling, DAX calculations, interactive visualizations
+- **Microsoft Power BI**: Data modeling, DAX calculations, interactive visualizations, Power BI Service
 - **Power Query**: Data transformation and ETL processes
 - **Data Processing**: Automated data refresh, data modeling
 - **Visualization**: Interactive charts, KPI cards, dynamic filtering, drill-through capabilities
 - **Dashboard Design**: Multi-page navigation, responsive layouts
 - **Analytics**: Advanced analytics, trend analysis, segmentation, performance tracking
-- **Filter panel**: year,moth,product name, customer name,custoemr segment,quantity vs revenue, time (month,month-yr,week,day),monthly comparison,a toggle switch for condition(enable,disbale),
+- **Filter panel**: year,month,product name, customer name,custoemr segment,quantity vs revenue, time (month,month-yr,week,day),monthly comparison,a toggle switch for condition(enable,disable)
 
 ## Methodology
 1. **Data Integration**: Consolidated data from multiple business functions using Power Query
@@ -28,44 +28,53 @@ Develop a fully automated, interactive Power BI dashboard that integrates data c
 6. **Visualization**: Designed interactive charts with drill-down capabilities
 7. **User Experience**: Created intuitive navigation with bookmarks and page filters
 
+## Dashboard Components
+- **7 Interactive Pages**: Comprehensive business coverage with seamless navigation
+- **25+ KPI Metrics**: Real-time performance monitoring with custom DAX measures
+- **Multiple Visualization Types**: Trend lines, bar charts, donut charts, KPI cards
+- **Dynamic Filtering**: Area, product, time-period selections with cross-filtering
+- **Automated Refresh**: Scheduled data updates from multiple data sources
+- **Mobile-Responsive**: Optimized layouts for desktop, tablet, and mobile viewing
+- **Drill-Through Actions**: Deep-dive capabilities for detailed analysis
+  
 ***Sale Overview***  
 <img width="758" alt="Sale Overview" src="https://github.com/user-attachments/assets/8601386c-6cab-49c8-adb5-32c3ca49e054" />
 
-The business saw good growth in early 2024, especially in March.  
-From mid-year onward, performance was flat or declining.  
-End of year (Nov-Dec) is a critical concern due to major drops in sales compared to 2023.
+- The business saw good growth in early 2024, especially in March.  
+- From mid-year onward, performance was flat or declining.  
+- End of year (Nov-Dec) is a critical concern due to major drops in sales compared to 2023.
 
-Top area - Sambalpur, Thiruvananthapuram, Nandyal, Gandhinagar,Orai  
-Top products - Vitamins,Cough Syrups, Pet treats, Cat food, Bread
-Payment Methods: Card > Cash > UPI > Wallet   
-Customer segment: Regular > Premium > Inactive > New  
+- Top area - Sambalpur, Thiruvananthapuram, Nandyal, Gandhinagar,Orai  
+- Top products - Vitamins,Cough Syrups, Pet treats, Cat food, Bread
+- Payment Methods: Card > Cash > UPI > Wallet   
+- Customer segment: Regular > Premium > Inactive > New  
 
 ***Customer***  
 <img width="758" alt="Customer" src="https://github.com/user-attachments/assets/72a3d992-ec4c-467f-af1b-c307334b786d" />
 
-Revenue in 2024 was ₹2.51 million, up from ₹2.46 million in 2023 — a year-over-year growth of 2.08%. 🔼
-Customer count increased from 1,573 in 2023 to 1,612 in 2024 — a modest growth. ➡️
-100% of 2024 customers are repeat/multiple-time customers
-2024 saw a net gain of 39 customers (599 new, 560 lost).
-New customer revenue: ₹0.91M | Lost customer revenue: ₹0.859M. ✅ Net positive.
+- Revenue in 2024 was ₹2.51 million, up from ₹2.46 million in 2023 — a year-over-year growth of 2.08%. 🔼  
+- Customer count increased from 1,573 in 2023 to 1,612 in 2024 — a modest growth. ➡️  
+- 100% of 2024 customers are repeat/multiple-time customers   
+- 2024 saw a net gain of 39 customers (599 new, 560 lost).    
+- New customer revenue: ₹0.91M | Lost customer revenue: ₹0.859M. ✅ Net positive.
 
-Early and Mid-Year Strength: Business retained more customers and grew in 2024 vs. 2023 in the first 8 months.  
-Late-Year Drop: Growth dips sharply in Nov–Dec, indicating a need to:  Investigate churn or customer inactivity.  
-Reevaluate year-end campaigns or product/service delivery.   
-High Repeat Rate: Combined with the insight that 100% of 2024 customers are repeat buyers, this chart shows customer loyalty, though new acquisition may have slowed toward year-end.   
+- Early and Mid-Year Strength: Business retained more customers and grew in 2024 vs. 2023 in the first 8 months.  
+- Late-Year Drop: Growth dips sharply in Nov–Dec, indicating a need to:  Investigate churn or customer inactivity.  
+- Reevaluate year-end campaigns or product/service delivery.   
+- High Repeat Rate: Combined with the insight that 100% of 2024 customers are repeat buyers, this chart shows customer loyalty, though new acquisition may have slowed toward year-end.   
 
-Top customers by revenue in 2024
-Highest: Odika Kannan. with ₹10.5K
+- Top customers by revenue in 2024
+- Highest: Odika Kannan. with ₹10.5K
 
 ***Feedback***  
 <img width="758" alt="Feedback" src="https://github.com/user-attachments/assets/715d4b7a-162a-41f4-a447-2557450272b0" />
 
-4.03% growth, 5.12K feedback in 2024 vs 4.92K in 2023  
-Feedback evenly split across 4 categories: Delivery, Customer Service, Product Quality, App Experience (each ~25%)  
-Sentiment: 35% Positive, 33% Neutral, rest Negative   
-Most feedback is 3-4 stars (1398 and 1708 respectively) and 816 five-star ratings  
-Concerning: 1078 one-to-two star ratings combined  
-Shows individual feedback entries, mostly positive sentiment with 4-5 star ratings and "Will definitely order again" comments.
+- 4.03% growth, 5.12K feedback in 2024 vs 4.92K in 2023  
+- Feedback evenly split across 4 categories: Delivery, Customer Service, Product Quality, App Experience (each ~25%)  
+- Sentiment: 35% Positive, 33% Neutral, rest Negative   
+- Most feedback is 3-4 stars (1398 and 1708 respectively) and 816 five-star ratings  
+- Concerning: 1078 one-to-two star ratings combined  
+- Shows individual feedback entries, mostly positive sentiment with 4-5 star ratings and "Will definitely order again" comments.
 
 ***Inventory***  
 <img width="758" alt="Inventory" src="https://github.com/user-attachments/assets/ab8a862e-8c4f-4867-9c81-1e0da4239b75" />
@@ -90,50 +99,29 @@ The dashboard shows seasonal inventory patterns with strong availability but dec
 - Stock levels dropping in Q4 - potential restocking needed
 
 ***Marketing***  
-<img width="758" alt="Marketing" src="https://github.com/user-attachments/assets/a3575bd1-69ee-452e-9d4f-cf51312a0d53" />
+<img width="758" alt="Marketing" src="https://github.com/user-attachments/assets/a3575bd1-69ee-452e-9d4f-cf51312a0d53" />   
 
-### 📌 Key Insights:
+- 4.03% growth: 5.12K (2024) vs 4.92K (2023) YTD
 
-1. ✅ **Slight Growth** in Revenue (+2.08%) and Customer Count
-2. 🔁 **High Retention Rate** with all customers making multiple purchases
-3. 🆕 **New Customer Acquisition** (599) is slightly higher than losses (560)
-4. 📉 **Customer Growth Rate Drops** significantly after October – area of concern
+**Key Marketing Metrics:**
+- **Clicks**: 2.97M
+- **Conversions**: 298.04K 
+- **Impressions**: 29.49M
+- **Revenue**: ₹32.19M
+- **Spend**: ₹16.32M
 
-## Key Features & Metrics
+- **Impressions** (green): Peaked at 3M+ in May-Jul, declined to ~1.7M by Dec
+- **Revenue Generated** (gray): Strong performance Mar-Oct (~3M+), dropped to ~2M in Nov-Dec
+- **Spend** (blue): Steady at ~1.8M most of year, slight decline to ~1M in Dec
+- **Clicks** (yellow): Consistent low performance around 0.2M throughout
+- **Conversions** (black): Minimal, staying near baseline
+- **ROAS** (navy): Maintained around 1.8M level most of year
 
-### Financial Performance
-- **Revenue Growth**: 72.94% (₹1.49M vs ₹863.49K)
-- **Customer Acquisition**: 1,150 total customers with 72.94% growth
-- **Sales Tracking**: ₹1.49M in 2024 vs ₹863.49K in 2023
-
-### Geographic & Product Analysis
-- **Top Areas**: Deoghar, Nandyal, Orai, Ratlam, Bathinda
-- **Top Products**: Pet Treats, Toilet Cleaner, Lotion, Baby Wipes, Cough Syrup
-- **Payment Methods**: UPI (₹530.64K), Card (₹659.84K), Cash (₹609.74K), Wallet (₹556.57K)
-
-### Customer Intelligence
-- **Segmentation**: Regular (656.8K), Premium (602.66K), New (576.93K), Inactive (520.39K)
-- **Retention Analysis**: Multiple customers (314 count), New customers (789 count)
-- **Customer Satisfaction**: Detailed feedback analysis with sentiment tracking
-
-### Inventory Management
-- **Stock Received**: 14.0K units
-- **Available Stock**: 9.2K units (65.93%)
-- **Damaged Stock**: 490 units (3.51%)
-- **Stock Movement**: 34.1% efficiency rate
-
-### Marketing Performance
-- **Clicks**: 1.42M
-- **Conversions**: 142.32K (10% conversion rate)
-- **Impressions**: 14.01M
-- **Revenue Generated**: ₹15.50M
-- **Marketing Spend**: ₹7.86M (ROI: 1.97x)
-
-### Customer Feedback Analysis
-- **Total Reviews**: 2,391 (75.45% growth)
-- **Rating Distribution**: 398 (5-star), 822 (4-star), 667 (3-star), 258 (2-star), 246 (1-star)
-- **Sentiment Analysis**: Positive sentiment dominance
-- **Feedback Categories**: Delivery, Product Quality, App Experience, Customer Service
+- Strong ROI: ₹32.19M revenue from ₹16.32M spend (2:1 ratio)
+- Seasonal pattern: Peak performance mid-year, Q4 decline
+- High impression volume (29.5M) but low click-through
+- Conversion optimization needed (298K from 2.97M clicks = ~10% conversion rate)
+- The dashboard shows profitable marketing with room to improve click-through and conversion rates.
 
 ## Key Findings
 
@@ -153,23 +141,6 @@ The dashboard shows seasonal inventory patterns with strong availability but dec
 - **Customer Experience**: Address feedback in delivery and product quality categories
 - **Marketing Optimization**: Scale successful campaigns with proven ROI
 
-## Dashboard Components
-- **7 Interactive Pages**: Comprehensive business coverage with seamless navigation
-- **25+ KPI Metrics**: Real-time performance monitoring with custom DAX measures
-- **Multiple Visualization Types**: Trend lines, bar charts, pie charts, donut charts, KPI cards
-- **Dynamic Filtering**: Area, product, time-period selections with cross-filtering
-- **Automated Refresh**: Scheduled data updates from multiple data sources
-- **Mobile-Responsive**: Optimized layouts for desktop, tablet, and mobile viewing
-- **Drill-Through Actions**: Deep-dive capabilities for detailed analysis
-
-## Technical Implementation
-- **DAX Calculations**: Custom measures for growth rates, KPIs, and complex calculations
-- **Power Query**: Advanced data transformation, merging, and cleaning operations
-- **Data Modeling**: Star schema implementation with proper relationships
-- **Interactive Elements**: Slicers, buttons, bookmarks, and page navigation
-- **Conditional Formatting**: Dynamic visual indicators based on performance thresholds
-- **Power BI Service**: Cloud deployment with sharing and collaboration features
-
 ## Impact & Value
 - **Operational Efficiency**: Automated reporting eliminates manual processes
 - **Strategic Decision Making**: Data-driven insights across all business functions
@@ -177,3 +148,5 @@ The dashboard shows seasonal inventory patterns with strong availability but dec
 - **Stakeholder Enablement**: Self-service analytics through Power BI Service
 - **Scalable Solution**: Cloud-based framework adaptable to business growth
 - **Advanced Analytics**: DAX-powered calculations for complex business metrics
+
+ 👉[Live dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTU0NTU2MmItOGNmYS00ZTQ0LWIwZDMtYmNkNzNhN2JhY2E2IiwidCI6IjNiN2YyODNhLWI1NzAtNGE5NS04ZTFmLTgwNzAwODAzODEwOSJ9) 
